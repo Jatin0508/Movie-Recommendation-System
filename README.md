@@ -1,1 +1,3 @@
-# Movie-Recommendation-System
+﻿# movie-recommender-system
+CineMatch is a personalized AI-powered movie recommender system built using Python and Streamlit. It allows users to select a movie and get five similar movie recommendations, along with posters, genres, cast, and an overview using the TMDb API. The system uses a content-based filtering approach with cosine similarity to find similar movies. The app features a visually appealing UI, and all data processing is handled in the backend using pandas and pickle files. Developed by Nikhilesh K, this project is ideal for movie enthusiasts who want quick and intelligent suggestions.
+TRY THIS OUT: https://cinematchsystem.streamlit.app/
